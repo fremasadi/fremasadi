@@ -8,6 +8,8 @@
 
 - 🌱 I’m focus on **flutter** and **golang**
 
+- 💬 Mari berdiskusi tentang **Mobile Development** dan **Backend Development**.
+
 - 📫 How to reach me **fremasadii@gmail.com**
 
 - ⚡ Fun fact **I work hard**
