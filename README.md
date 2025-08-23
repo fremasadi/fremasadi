@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from Indonesia</h3>
 
-- 🌱 I’m focus on **flutter** and **golang**
+- 🌱 I’m focus on **Kotlin** and **Golang**
 
 - 💬 Let's discuss about **Mobile Development** dan **Backend Development**.
 
